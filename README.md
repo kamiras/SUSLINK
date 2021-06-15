@@ -57,7 +57,7 @@ In case of copying the directory of SUSLINK to your main directory you would hav
 ```
 http://localhost/SUSLINK/proyecto.php
 ```
-
+One additional think to say is that the project takes 40 seconds to analyze the link/domain. That is caused by the urlscan API, their API takes about a half minute to deploy the json code, once the json code is read **SUSLINK** process it with Python. 
 
 ## Disclaimer
 
