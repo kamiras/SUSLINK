@@ -14,7 +14,7 @@ Project created to gain information of suspect pages, links and domains.
 
 **Pre-Screenshot**
 
-- **SUSLINK** gives you a screenshot of the given using the urlscan.io API.
+- **SUSLINK** gives you a screenshot of the given link using the urlscan.io API.
 
 ## Requirements
 
