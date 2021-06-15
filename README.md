@@ -10,11 +10,11 @@ Project created to gain information of suspect pages, links and domains.
 
 **API**
 
-- SUSLINK uses the https://urlscan.io/ API to gather more information about the given link.
+- **SUSLINK** uses the https://urlscan.io/ API to gather more information about the given link.
 
 **Pre-Screenshot**
 
-- SUSLINK gives you a screenshot of the given using the urlscan.io API.
+- **SUSLINK** gives you a screenshot of the given using the urlscan.io API.
 
 ## Requirements
 
@@ -30,7 +30,7 @@ Python 3.9 also does need the following modules:
 
 **PHP 8.0.6**
 
-SUSLINK also works in different versions of PHP.
+**SUSLINK** also works in different versions of PHP.
 
 ## Installation
 
@@ -46,7 +46,7 @@ pip install urllib3
 
 ## Usage
 
-To work with SUSLINK you need to execute the proyecto.php file. You cand drag all the files of the project and leave it in your **localhost/** directory. Or you can drag the directory of SUSLINK and leave it in you **localhost/SUSLINK/**.
+To work with **SUSLINK** you need to execute the proyecto.php file. You cand drag all the files of the project and leave it in your **localhost/** directory. Or you can drag the directory of **SUSLINK** and leave it in you **localhost/SUSLINK/**.
 
 ## Disclaimer
 
