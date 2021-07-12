@@ -46,7 +46,7 @@ pip install urllib3
 
 ## Usage
 
-To work with **SUSLINK** you need to execute the proyecto.php file. You cand drag all the files of the project and leave it in your **localhost/** directory. Or you can drag the directory of **SUSLINK** and leave it in you **localhost/SUSLINK/**.
+To work with **SUSLINK** you need to execute the proyecto.php file. You cand drag all the files of the project and leave it in your **localhost/** directory. Or you can drag the directory of **SUSLINK** and leave it in your **localhost/SUSLINK/**.
 
 In case of copying all the files to your main directory you would have to search:
 ```
