@@ -12,9 +12,13 @@ Project created to gain information of suspect pages, links and domains.
 
 - **SUSLINK** uses the https://urlscan.io/ API to gather more information about the given link.
 
+![alt text](https://i.gyazo.com/72e9c05e19f9de743fafb30cb8259b0e.png)
+
 **Pre-Screenshot**
 
 - **SUSLINK** gives you a screenshot of the given link using the urlscan.io API.
+
+![alt text](https://i.gyazo.com/4543c12124190e23342e3962d514af80.png)
 
 ## Requirements
 
